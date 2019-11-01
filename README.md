@@ -27,4 +27,5 @@ the metadata working group's 2019 objectives:
 * [synapseAnnotations](https://github.com/Sage-Bionetworks/synapseAnnotations/)
 * [annotator](https://github.com/Sage-Bionetworks/annotator)
 * [Genie](https://github.com/Sage-Bionetworks/Genie)
+* [annotationUI](https://shinypro.synapse.org/users/nsanati/annotationUI/)
 * ...
