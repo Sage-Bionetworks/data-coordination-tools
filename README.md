@@ -24,6 +24,7 @@ the metadata working group's 2019 objectives:
 * [HTAN-data-pipeline](https://github.com/Sage-Bionetworks/HTAN-data-pipeline)
 * [HTAN_Shiny](https://github.com/Sage-Bionetworks/HTAN_Shiny)
 * [dccvalidator](https://github.com/Sage-Bionetworks/dccvalidator/)
+* [dccmonitor](https://github.com/sage-bionetworks/dccmonitor)
 * [synapseAnnotations](https://github.com/Sage-Bionetworks/synapseAnnotations/)
 * [annotator](https://github.com/Sage-Bionetworks/annotator)
 * [Genie](https://github.com/Sage-Bionetworks/Genie)
