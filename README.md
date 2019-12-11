@@ -31,3 +31,6 @@ the metadata working group's 2019 objectives:
 * [ki Rally Manager](https://github.com/Sage-Bionetworks/ki-rally-manager)
 * [syndccutils](https://github.com/Sage-Bionetworks/syndccutils)
 
+## Gap analysis
+
+See columns E and F of the "Top ranked use cases" sheet here: https://docs.google.com/spreadsheets/d/1UgY3JR6WlHVgHkGTzs1wUpV5E7QFuOpwC3ph1e8-zl4/edit#gid=1371550427
