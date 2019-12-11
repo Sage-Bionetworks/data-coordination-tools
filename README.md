@@ -29,4 +29,5 @@ the metadata working group's 2019 objectives:
 * [Genie](https://github.com/Sage-Bionetworks/Genie)
 * [annotationUI](https://shinypro.synapse.org/users/nsanati/annotationUI/)
 * [ki Rally Manager](https://github.com/Sage-Bionetworks/ki-rally-manager)
-* ...
+* [syndccutils](https://github.com/Sage-Bionetworks/syndccutils)
+
